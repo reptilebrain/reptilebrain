@@ -12,11 +12,11 @@ A Bash tool for managing SSHFS mounts on Linux with strict validation, plan-firs
 
 ### [mariadb-tool](https://github.com/reptilebrain/mariadb-tool)
 
-A Go utility for provisioning and managing MariaDB resources with a focus on repeatability, validation and safe reconciliation.
+A Go CLI for safely creating paired MariaDB databases and users with fail-closed checks and careful reconciliation.
 
 ### [desktop-cleanup](https://github.com/reptilebrain/desktop-cleanup)
 
-PowerShell scripts for keeping a Windows desktop tidy by moving files to predictable destinations without silently overwriting anything.
+PowerShell scripts for keeping a Windows desktop tidy by sorting media into folders and recycling unwanted desktop shortcuts without silently overwriting anything.
 
 ### [obsidian-inbox-import](https://github.com/reptilebrain/obsidian-inbox-import)
 
