@@ -22,6 +22,10 @@ PowerShell scripts for keeping a Windows desktop tidy by sorting media into fold
 
 A small PowerShell tool that moves text files into an Obsidian inbox while deliberately leaving organisation to Obsidian and the user.
 
+### [xtm330-fan-control](https://github.com/reptilebrain/xtm330-fan-control)
+
+A small OpenWrt init script that configures temperature-controlled fans on a WatchGuard XTM 330, leaving the hardware to handle fan speeds without a background process.
+
 ## General approach
 
 - Small tools that do one thing
