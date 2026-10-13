@@ -26,6 +26,10 @@ A small PowerShell tool that moves text files into an Obsidian inbox while delib
 
 A small OpenWrt init script that configures temperature-controlled fans on a WatchGuard XTM 330, leaving the hardware to handle fan speeds without a background process.
 
+### [sitemap-cache-warmer](https://github.com/reptilebrain/sitemap-cache-warmer)
+
+A dependency-free Python CLI that fetches sitemap pages and images to warm eligible caches, reports HTTP and cache headers, and exports JSON or CSV results.
+
 ## General approach
 
 - Small tools that do one thing
