@@ -49,4 +49,5 @@ Apparently that is how repositories happen.
 More projects, technical notes and longer write-ups:
 
 [**hardhq.com**](https://www.hardhq.com/)
+
 [**nordicforestechoes.com**](https://www.nordicforestechoes.com/)
